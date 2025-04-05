@@ -1,0 +1,11 @@
+# Node modules and dependencies
+node_modules/
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/workspace settings
+.vscode/
+.idea/
